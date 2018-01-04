@@ -1,3 +1,6 @@
+// dbg.h
+// Debug macros courtesy of Zed Shaw
+
 #ifndef __dbg_h__
 #define __dbg_h__
 
